@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[[math]]
+${1|insert LaTeX equation here|}
+[[/math]]
+</string>
+	<key>keyEquivalent</key>
+	<string>^[</string>
+	<key>name</key>
+	<string>Math equation</string>
+	<key>scope</key>
+	<string>text.html.wikidot</string>
+	<key>tabTrigger</key>
+	<string>Math</string>
+	<key>uuid</key>
+	<string>DE285CEE-4FA4-4B70-97A6-696EFB1588CD</string>
+</dict>
+</plist>
